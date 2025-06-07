@@ -7,7 +7,7 @@ JavaScript, React, Node.js, Express, MongoDB, Java, Python, SQL
 
 ## Projects
 - [Local Service Marketplace](https://parthibpal.github.io/Doorstep/) — Booking platform connecting users with local services.  
-- [OTT Platform](https://github.com/ParthibPal/OTT-Platform) — Content streaming platform with role-based access.
+- [OTT Platform](https://github.com/ParthibPal/StreamingPlatform) — Content streaming platform with role-based access.
 
 ## Contact
 - Email: palparthib97@gmail.com  
