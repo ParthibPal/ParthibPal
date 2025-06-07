@@ -6,7 +6,7 @@ I'm a MERN Stack Developer passionate about building scalable web apps and clean
 JavaScript, React, Node.js, Express, MongoDB, Java, Python
 
 ## Projects
-- [Local Service Marketplace](https://github.com/ParthibPal/Local-Service-Marketplace) — Booking platform connecting users with local services.  
+- [Local Service Marketplace](https://parthibpal.github.io/Doorstep/) — Booking platform connecting users with local services.  
 - [OTT Platform](https://github.com/ParthibPal/OTT-Platform) — Content streaming platform with role-based access.
 
 ## Contact
