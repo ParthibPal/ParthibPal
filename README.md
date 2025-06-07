@@ -3,7 +3,7 @@
 I'm a MERN Stack Developer passionate about building scalable web apps and clean UI.
 
 ## Skills
-JavaScript, React, Node.js, Express, MongoDB, Java, Python
+JavaScript, React, Node.js, Express, MongoDB, Java, Python, SQL
 
 ## Projects
 - [Local Service Marketplace](https://parthibpal.github.io/Doorstep/) — Booking platform connecting users with local services.  
