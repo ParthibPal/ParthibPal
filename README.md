@@ -34,8 +34,7 @@ I'm a **Full Stack MERN Developer** who loves building scalable web applications
 
 - 📧 Email: [palparthib97@gmail.com](mailto:palparthib97@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/parthibpal](https://www.linkedin.com/in/parthibpal/)  
-- 💻 GitHub: [github.com/ParthibPal](https://github.com/ParthibPal)  
-- 📸 Instagram Dev Page: [@learnwithpapa](https://www.instagram.com/learnwithpapa/)
+- 💻 GitHub: [github.com/ParthibPal](https://github.com/ParthibPal)
 
 ---
 
