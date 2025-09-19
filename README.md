@@ -19,7 +19,7 @@ I'm a **Full Stack MERN Developer** who loves building scalable web applications
 
 ## 🧩 Projects
 
-- 🔧 [**Local Service Marketplace – DoorStep**](https://parthibpal.github.io/Doorstep/)  
+- 🔧 [**Local Service Marketplace – DoorStep**]([https://parthibpal.github.io/Doorstep/](https://doorstep-2ia5.onrender.com))  
   Booking platform connecting users with trusted local services.
 
 - 🎬 [**OTT Platform – StreamingPlatform**](https://github.com/ParthibPal/StreamingPlatform)  
