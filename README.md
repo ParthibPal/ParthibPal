@@ -13,6 +13,7 @@ I'm a **Full Stack MERN Developer** who loves building scalable web applications
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
@@ -21,6 +22,9 @@ I'm a **Full Stack MERN Developer** who loves building scalable web applications
 
 - 🔧 [**Local Service Marketplace – DoorStep**](https://doorstep-2ia5.onrender.com/)  
   Booking platform connecting users with trusted local services.
+  
+- 🛒 [**Flask E-commerce – Local Store**](https://e-commerce-45k2.onrender.com/)  
+  Full Stack Flask E-commerce app with product browsing, cart management, and Razorpay payment integration.
 
 - 🎬 [**OTT Platform – StreamingPlatform**](https://github.com/ParthibPal/StreamingPlatform)  
   Java-based content streaming app using Servlets & JSP with role-based access.
