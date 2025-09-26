@@ -210,24 +210,6 @@
 
 </div>
 
----
-
-## 🎓 **Education & Certifications**
-
-### **Academic Background**
-- **MCA** - Techno College Hooghly (2023-2025) | **CGPA: 8.39**
-- **BCA** - Techno Main Saltlake (2020-2023) | **CGPA: 9.03**  
-- **Higher Secondary** - Uttarpara Government High School (2019-2020) | **68.40%**
-
-### **Professional Certifications**
-- 🏆 **Walmart** - Advanced Software Engineering Job Simulation (Forage, 2025)
-- 🏆 **HackerRank** - Frontend Developer (React) Certification (2025)
-- 🏆 **IBM** - Generative AI for Software Development (IBM SkillsBuild, 2025)
-- 🏆 **Goldman Sachs** - Risk Management Job Simulation (Forage, 2025) 
-- 🏆 **TCS** - Cybersecurity Analyst & Data Visualization Simulations (2025)
-- 🏆 **Accenture Nordics** - Developer Experience (Forage, 2023)
-
----
 
 ## 🎯 **Current Focus**
 
@@ -240,16 +222,6 @@ const parthib = {
 };
 ```
 
----
-
-## 🏆 **Leadership & Achievements**
-
-- **🚀 Project Team Leader** - Led development teams during MCA and BCA programs
-- **🎯 Top Performer** - Consistent excellence in software development laboratories
-- **⚽ Team Captain** - College football tournaments and competitive matches
-- **📊 Market Analyst** - Technical analysis expertise in stock market trends
-
----
 
 ## 📫 **Let's Connect**
 
