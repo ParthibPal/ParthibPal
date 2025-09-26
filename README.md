@@ -1,9 +1,12 @@
+<div align="center">
+
 # 👋 Parthib Pal
 ### *Full Stack MERN Developer | Solution-Oriented Architect*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Working+with+Java+%26+Python;Flask+Web+Applications;Building+Scalable+Web+Solutions" alt="Typing Animation" />
 
 </div>
+
 
 ---
 
