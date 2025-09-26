@@ -54,40 +54,141 @@
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 **Featured Projects Portfolio**
 
-### **💼 WorkVerse - Job Portal Platform**
-*MERN Stack | JWT Authentication | Role-Based Access*
+<div align="center">
 
-- **Multi-level authentication** system for Admin, Recruiter, and Job Seeker roles
-- **Dynamic dashboards** with role-specific functionalities and secure APIs  
-- **Advanced features**: Resume upload, company registration, job application tracking
-- **Tech Stack**: React, Node.js, Express.js, MongoDB, JWT
-- 🔗 [Repository](https://github.com/ParthibPal/WorkVerse)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4_Live_Projects-success?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ParthibPal)
 
-### **🛠️ DoorStep - Local Service Marketplace** 
-*Full Stack MERN | Live Production*
+</div>
 
-- **🌐 Live Project**: [doorstep-2ia5.onrender.com](https://doorstep-2ia5.onrender.com/)
-- **Comprehensive booking system** connecting users with trusted local service providers
-- **Advanced features**: User authentication, seller dashboard, service categorization
-- **Future scope**: AI-based recommendation engine integration
+---
 
-### **🛒 Local Store - E-commerce Platform**
-*Flask | Payment Integration | Live Production*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **🌐 Live Project**: [e-commerce-45k2.onrender.com](https://e-commerce-45k2.onrender.com/)
-- **Complete e-commerce solution** with product browsing and cart management  
-- **Razorpay payment integration** for secure transactions
-- **Admin panel** for inventory and order management
+### **💼 WorkVerse** - *Job Portal Revolution*
+[![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)](https://github.com/ParthibPal/WorkVerse)
+[![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square&logo=react)](https://github.com/ParthibPal/WorkVerse)
 
-### **🎬 StreamingPlatform - OTT Application**
-*Java Enterprise | Servlets & JSP*
+**🎯 Enterprise-Grade Career Portal**
 
-- **Enterprise-level streaming platform** with dynamic content delivery
-- **Role-based user access control** and session management
-- **Tech Stack**: Java, JSP, Servlets, Oracle Database
-- 🔗 [Repository](https://github.com/ParthibPal/StreamingPlatform)
+**Core Features:**
+- 🔐 **Multi-tier Authentication**: Admin | Recruiter | Job Seeker
+- 🎛️ **Smart Dashboards**: Role-based dynamic interfaces
+- 📄 **Resume Management**: Upload, parse & match system
+- 🏢 **Company Hub**: Registration & profile management
+- 📊 **Analytics Dashboard**: Application tracking & insights
+
+**Architecture Highlights:**
+- ⚡ **JWT Security**: Stateless authentication
+- 🗄️ **MongoDB**: Scalable NoSQL database
+- 🔄 **RESTful APIs**: Clean, documented endpoints
+- 📱 **Responsive Design**: Mobile-first approach
+
+**Tech Stack**: `React` `Node.js` `Express.js` `MongoDB` `JWT`
+
+🔗 **[View Repository](https://github.com/ParthibPal/WorkVerse)**
+
+</td>
+<td width="50%" valign="top">
+
+### **🛠️ DoorStep** - *Service Marketplace*
+[![Live](https://img.shields.io/badge/🚀_LIVE-Production-success?style=flat-square)](https://doorstep-2ia5.onrender.com/)
+[![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square&logo=react)](https://doorstep-2ia5.onrender.com/)
+
+**🌐 [Live Production →](https://doorstep-2ia5.onrender.com/)**
+
+**Platform Highlights:**
+- 🤝 **Smart Matching**: Connects users with trusted service providers
+- 📅 **Booking Engine**: Real-time scheduling & management
+- 👨‍💼 **Seller Dashboard**: Comprehensive service management
+- 📱 **Mobile Optimized**: Seamless cross-device experience
+- 🔍 **Service Discovery**: Advanced search & filtering
+
+**Upcoming Features:**
+- 🤖 **AI Recommendations**: ML-powered service matching
+- 💬 **Chat System**: Real-time communication
+- ⭐ **Rating System**: Trust & quality assurance
+
+**Impact**: *Streamlining local service discovery*
+
+🔗 **[Visit Live Site](https://doorstep-2ia5.onrender.com/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### **🛒 Local Store** - *E-commerce Engine*
+[![Live](https://img.shields.io/badge/🚀_LIVE-Production-success?style=flat-square)](https://e-commerce-45k2.onrender.com/)
+[![Flask](https://img.shields.io/badge/Flask-Web_App-000000?style=flat-square&logo=flask)](https://e-commerce-45k2.onrender.com/)
+
+**🌐 [Live Production →](https://e-commerce-45k2.onrender.com/)**
+
+**Commercial Features:**
+- 🛍️ **Product Catalog**: Dynamic inventory management
+- 🛒 **Smart Cart**: Advanced cart & wishlist functionality
+- 💳 **Payment Gateway**: Secure Razorpay integration
+- 📊 **Admin Control**: Order & inventory management
+- 📈 **Sales Analytics**: Revenue & performance tracking
+
+**Security & Performance:**
+- 🔒 **Secure Transactions**: PCI compliant payments
+- ⚡ **Fast Loading**: Optimized database queries
+- 📱 **Cross-Platform**: Responsive e-commerce design
+
+**Tech Stack**: `Flask` `Python` `SQLite` `Razorpay API`
+
+🔗 **[Visit Live Store](https://e-commerce-45k2.onrender.com/)**
+
+</td>
+<td width="50%" valign="top">
+
+### **🎬 StreamingPlatform** - *OTT Solution*
+[![Enterprise](https://img.shields.io/badge/Enterprise-Java_App-ED8B00?style=flat-square&logo=openjdk)](https://github.com/ParthibPal/StreamingPlatform)
+[![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle)](https://github.com/ParthibPal/StreamingPlatform)
+
+**📺 Enterprise Streaming Architecture**
+
+**Platform Features:**
+- 🎭 **Role Management**: Multi-tier user access control
+- 🗄️ **Session Handling**: Advanced user state management
+- 🎨 **Dynamic Content**: Real-time content rendering
+- 🔒 **Security Layer**: Enterprise-grade protection
+- 📊 **Content Analytics**: Viewing patterns & insights
+
+**Enterprise Architecture:**
+- ☕ **Java Enterprise**: Scalable backend architecture
+- 🏛️ **MVC Pattern**: Clean separation of concerns
+- 🗃️ **Oracle Database**: Enterprise-grade data management
+- 🔄 **Servlet Technology**: High-performance request handling
+
+**Tech Stack**: `Java` `JSP` `Servlets` `Oracle DB` `Apache Tomcat`
+
+🔗 **[View Repository](https://github.com/ParthibPal/StreamingPlatform)**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### **🎯 Project Impact Summary**
+
+| **Metric** | **Achievement** |
+|------------|-----------------|
+| **Live Applications** | 2 Production-Ready Projects |
+| **Tech Stack Diversity** | MERN, Flask, Java Enterprise |
+| **User Experiences** | 4 Different Domain Solutions |
+| **Architecture Patterns** | MVC, RESTful APIs, Role-Based Access |
+
+**💡 Each project demonstrates end-to-end development expertise from concept to deployment**
+
+</div>
 
 ---
 
