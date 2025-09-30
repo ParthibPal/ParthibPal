@@ -130,7 +130,7 @@
 [![Live](https://img.shields.io/badge/🚀_LIVE-Production-success?style=flat-square)](https://e-commerce-45k2.onrender.com/)
 [![Flask](https://img.shields.io/badge/Flask-Web_App-000000?style=flat-square&logo=flask)](https://e-commerce-45k2.onrender.com/)
 
-**🌐 [Live Production →](https://e-commerce-45k2.onrender.com/)**
+**🌐 [Live Production →](https://e-commerce-kfpr.onrender.com)**
 
 **Commercial Features:**
 - 🛍️ **Product Catalog**: Dynamic inventory management
